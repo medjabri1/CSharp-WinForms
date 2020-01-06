@@ -1,0 +1,12 @@
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\bin\Debug\BinaryCode.exe.config
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\bin\Debug\BinaryCode.exe
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\bin\Debug\BinaryCode.pdb
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\bin\Debug\XanderUI.dll
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.csprojAssemblyReference.cache
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.Form1.resources
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.Properties.Resources.resources
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.csproj.GenerateResource.cache
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.csproj.CoreCompileInputs.cache
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.csproj.CopyComplete
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.exe
+C:\Users\Dell i5 Pro\Desktop\.NET\Home 6 nov\BinaryCode\obj\Debug\BinaryCode.pdb
